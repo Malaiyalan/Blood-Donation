@@ -60,6 +60,7 @@ export default function Footer() {
       <div className="border-t border-ink-50 py-6">
         <div className="container-app flex flex-col items-center justify-between gap-3 text-xs text-ink-300 sm:flex-row">
           <p>© 2026 LifeDrop. All rights reserved.</p>
+          <p>Made By Malaiyalan R</p>
           <p className="flex items-center gap-1.5">
             Made with <Heart className="h-3.5 w-3.5 fill-crimson-500 text-crimson-500" /> for every donor and every life saved.
           </p>
